@@ -7,10 +7,6 @@ Atividade de Website Responsivo usando HTML e CSS Grid.
 - `index.html`: conteudo do site, menu, produtos, categorias e rodape.
 - `style.css`: estilos, layout com Grid CSS, media queries e menu hamburger mobile.
 
-## Como abrir
-
-Abra o arquivo `index.html` no navegador.
-
 ## Recursos implementados
 
 - Layout responsivo com CSS Grid.
