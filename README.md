@@ -1,16 +1,37 @@
-# Catalogo Responsivo - GRID CSS
+# Desenvolvimento para Plataformas Móveis
 
-Atividade de Website Responsivo usando HTML e CSS Grid.
+Atividades da disciplina.
 
-## Estrutura
+## Flutter — layout e Cookbook modificado
 
-- `index.html`: conteudo do site, menu, produtos, categorias e rodape.
+Projeto em [`atividade_flutter/`](atividade_flutter/).
+
+- **Parte (a):** layout do lago seguindo o tutorial oficial Flutter.
+- **Parte (b):** adaptação do Cookbook de temas, com alternância entre claro e escuro.
+- [Instruções e modificações](atividade_flutter/README.md).
+- [Roteiro de apresentação em sala](atividade_flutter/docs/APRESENTACAO.md).
+
+Para executar após instalar o SDK Flutter:
+
+```powershell
+cd atividade_flutter
+flutter pub get
+flutter run -d chrome
+```
+
+## Catálogo Responsivo — GRID CSS
+
+Atividade de website responsivo usando HTML e CSS Grid, nos arquivos da raiz.
+
+### Estrutura
+
+- `index.html`: conteúdo do site, menu, produtos, categorias e rodapé.
 - `style.css`: estilos, layout com Grid CSS, media queries e menu hamburger mobile.
 
-## Recursos implementados
+### Recursos implementados
 
 - Layout responsivo com CSS Grid.
 - Grade de produtos com imagens e textos.
-- Menu de navegacao convertido em menu hamburger no mobile.
-- Secao de categorias.
-- Rodape com informacoes de contato.
+- Menu de navegação convertido em menu hamburger no mobile.
+- Seção de categorias.
+- Rodapé com informações de contato.
